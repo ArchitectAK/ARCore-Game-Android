@@ -3,6 +3,7 @@ package dev.ankit.arcore_demo
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
+import com.google.ar.sceneform.ux.ArFragment
 
 class MainActivity : AppCompatActivity() {
 
